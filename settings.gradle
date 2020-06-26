@@ -1,0 +1,3 @@
+rootProject.name='WeiBoDialog'
+include ':app'
+include ':weibodialogutil'
