@@ -54,6 +54,10 @@ public class WeiboDialogUtil {
         }
     }
 
+    public static Dialog setDialogAttr() {
+        return loadingDialog;
+    }
+
     public static boolean isShow() {
         if (loadingDialog == null) {
             return false;
