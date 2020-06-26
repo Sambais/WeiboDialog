@@ -48,7 +48,7 @@ if (WeiboDialogUtil.isShow()) WeiboDialogUtil.closeDialog();
 
 ## 效果
 
-<img src="C:\Users\Administrator\Desktop\weibodialog.gif" style="zoom: 67%;" />
+<img src="E:\Android\WeiBoDialog\WeiboDialog\images\weibodialog.gif" style="zoom:67%;" />
 
 ------
 
@@ -56,5 +56,5 @@ if (WeiboDialogUtil.isShow()) WeiboDialogUtil.closeDialog();
 
 若有错误或可以改进,欢迎指出,相互学习
 
- <img src="file:///D:\Documents\Tencent Files\1403132923\Image\C2C\Image1\8D7A37EAEECB1ED8C7DE294C22DEF74D.jpg" alt="img" style="zoom: 25%;" /> 
+  <img src="E:\Android\WeiBoDialog\WeiboDialog\images\8D7A37EAEECB1ED8C7DE294C22DEF74D.jpg" style="zoom: 25%;" />
 
