@@ -56,5 +56,5 @@ if (WeiboDialogUtil.isShow()) WeiboDialogUtil.closeDialog();
 
 若有错误或可以改进,欢迎指出,相互学习
 
-  <img src="E:\Android\WeiBoDialog\WeiboDialog\images\8D7A37EAEECB1ED8C7DE294C22DEF74D.jpg" style="zoom: 25%;" />
+  <img src="https://raw.githubusercontent.com/Sambais/WeiboDialog/master/images/8D7A37EAEECB1ED8C7DE294C22DEF74D.jpg" style="zoom: 25%;" />
 
