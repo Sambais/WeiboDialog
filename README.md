@@ -48,7 +48,7 @@ if (WeiboDialogUtil.isShow()) WeiboDialogUtil.closeDialog();
 
 ## 效果
 
-<img src="E:\Android\WeiBoDialog\WeiboDialog\images\weibodialog.gif" style="zoom:67%;" />
+<img src="https://raw.githubusercontent.com/Sambais/WeiboDialog/master/images/weibodialog.gif" style="zoom:67%;" />
 
 ------
 
