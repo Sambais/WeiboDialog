@@ -1,6 +1,6 @@
 # WeiboDialog
 
-模仿微博APP的网络加载弹窗
+模仿微博APP的网络加载弹窗，实现效果是微博的样式 
 
 
 
@@ -51,6 +51,8 @@ if (WeiboDialogUtil.isShow()) WeiboDialogUtil.closeDialog();
 <img src="C:\Users\Administrator\Desktop\weibodialog.gif" style="zoom: 67%;" />
 
 ------
+
+
 
 若有错误或可以改进,欢迎指出,相互学习
 
